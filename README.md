@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Burgers SPA</h1>
+<h1>HooBank - Modern UI/UX website using React.js & Tailwind CSS</h1>
   <br>
  https://hoobankorgapp.netlify.app/
 </div>
@@ -8,3 +8,4 @@
   
 ![hoobank](https://github.com/7iliama1/hoobank/assets/106347442/77f6d751-8144-4193-a990-233b09a7c6b9)
 </div>
+ <hr>
